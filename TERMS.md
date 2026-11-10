@@ -19,7 +19,7 @@ Supernova does not include or distribute any Minecraft game files. It downloads 
 ## 3. You need Minecraft
 - You may only use Supernova to play a copy of Minecraft: Java Edition that you own or are otherwise licensed to play.
 - Your use of Minecraft is governed by Mojang's Minecraft End User Licence Agreement and Usage Guidelines (https://www.minecraft.net/eula). You must follow them. We are not a party to them.
-- Offline accounts are for testing, development and playing on your own computer or network with a game you own. Don't use them to get around the game's licence checks.
+- Supernova only signs in with a Microsoft account that owns Minecraft: Java Edition. Don't use it to get around the game's licence checks.
 
 ## 4. Your licence
 We give you a free, personal, non-exclusive, non-transferable and revocable licence to install and use Supernova for your own non-commercial use. We keep all rights we don't expressly give you.
